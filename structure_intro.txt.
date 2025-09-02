@@ -1,0 +1,8 @@
+# Создаём файл knight.c
+nano knight.c
+
+# Компилируем программу
+gcc knight.c -o knight
+
+# Запускаем исполняемый файл
+./knight
